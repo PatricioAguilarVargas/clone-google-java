@@ -1,0 +1,58 @@
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.contenedor{
+    text-align: center;
+    width: 500px;
+    margin: auto;
+}
+
+img.logo-index{
+    width: 300px;
+}
+
+img.logo-results{
+    width: 110px;
+    position: absolute;
+    left: 31px;
+    top:15px
+}
+
+button {
+    padding: 7px 15px;
+}
+
+input {
+    margin: 20px 0;
+    height: 33px;
+    border-radius: 25px;
+    border-color: #ccc;
+    padding-left: 15px;
+}
+
+input.index {
+    width: 100%;
+}
+
+input.result {
+    width: 500px;
+    margin-left: 160px;
+}
+
+.link{
+    max-width: 600px;
+    margin-left: 159px;
+}
+
+.link h3 {
+    color: #0086f8;
+    margin-bottom: 4px;
+   
+}
+
+.total-results{
+    margin-left: 159px;
+    font-size: 12px;
+}
